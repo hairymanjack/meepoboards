@@ -1,0 +1,14 @@
+---
+# Auto mod to add info to any post tagged with 'general help'
+Type: submission
+flair_text: "General help"
+comment: |
+  Hi u/{{author}}, thanks for the post. 
+  
+  Please try and desribe the issue in as much detail as possible. using things like:
+  
+  1. Model of the board
+
+  2. Purchase date
+
+  3. The exact issue. (You can add things like a video explaining as well)
