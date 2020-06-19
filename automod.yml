@@ -1,8 +1,8 @@
----
+#---
 #fuck shipping posts! this is why I was sworn in as a mod
-title: [shipping, delivery]
-set_flair: Shipping question
-Moderators_exempt: false
+#title: [shipping, delivery]
+#set_flair: Shipping question
+#Moderators_exempt: false
 ---
 #try and make a good community with questions leading to discussions
 type: submission
@@ -40,6 +40,20 @@ comment: |
 
         If the user is doxxing, [ban them](/r/{{subreddit}}/about/banned) and [report them to the reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&amp;subject=Doxxing%20Report:%20%2Fu%2F{{author}}&message=%2Fu%2F{{author}}%20posted%20a%20credit%20card%20number:%20{{permalink}}) immediately.
 ---
-#anti racism because some of you act like children
-priority: 1
-title+body: [nigger, niggers, nigga, niggas, faggot, faggots, fag, fags, moron, morons, maggot, maggots, dumbass, dumbasses, cunt, cunts, asshole, assholes, wetback, wetbacks, bitch, bitches, darkies, nignog, nignogs, monkey, monkeys] 
+#only have this for a week to collect info so I can figure out what they want
+type: submission
+comment: |
+    Please fill [this form out](https://forms.gle/w567xct4ZqbjNcCm8) so the mods can work better for you!
+comment_stickied: true
+---
+type: submission
+flair_text: "Board arrived"
+Moderators_exempt: false
+comment: |
+   Holy cheeze balls /u/{{author}} that's a pretty dank ride you got there!
+
+   Just a gentle reminder for you to fill [this form out](https://forms.gle/jVfHhKx1J3iSBSox7) so we can track how long shipping takes, and then offer help to those who want to know how long it takes.
+
+   To help people who want to know the 'deets' as the cool kids say, please tell us: Date ordered, date arrived and country
+
+   Also please reply to this comment and tag u/chin_waghing with the model of board you got so we can add a snazzy flair to your username!
