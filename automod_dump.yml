@@ -1,0 +1,36 @@
+title (regex): ['\[Fanart\]', '\[Art\]']
+set_flair: "Art"
+---
+title (regex): ['\[fanfiction\]', '\[fanfic\]', '\[fic\]']
+set_flair: "Fanfic"
+---
+title (regex) : ['\[typo\]', '\[inconsistency\]', '\[typo/inconsistency\]']
+set_flair: "Typo/Inconsistency"
+---
+title (regex): '\[Meme\]'
+set_flair: "Meme"
+---
+title (regex): '\[Meta\]'
+set_flair: "Meta"
+---
+title (regex): '\[Other\]'
+set_flair: "Other"
+---
+title (regex): '\[Discussion\]'
+set_flair: "Discussion"
+---
+title (regex): '\[Theory\]'
+set_flair: "Theory"
+---
+#comments if you dont have a flair
+~flair_text: ["Other","Discussion","Theory","Meta","Meme","Typo/Inconsistency", "Fanfic","Art"]
+~title (regex): ['\[Discussion\]','\[Other\]','\[Meme\]','\[typo\]', '\[inconsistency\]', '\[typo/inconsistency\]','\[fanfiction\]', '\[fanfic\]', '\[fic\]','\[Fanart\]', '\[Art\]','\[Meta\]', '\[Theory\]']
+comment: |
+    Hello! Unfortunately, your post is not flaired, so it has been removed. Please repost the thread, with its matching flair!
+    
+    This can be done by directly flairing the post, or by typing the flair in the title, inside square brackets. For example, typing **[Discussion]** will give it the Discussion flair.
+    
+    The list of flairs are as follows: 
+    
+    [Discussion], [Art], [Fanfic], [Typo/Inconsistency], [Meme],[Meta], [Other], and [Theory].
+action: remove
