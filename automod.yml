@@ -1,16 +1,12 @@
----
-# Auto mod to add info to any post tagged with 'general help'
-Type: submission
-flair_text: "General help"
+type: submission
+flair_css_class: shipquest
 comment: |
-  Hi u/{{author}}, thanks for the post. 
-  
-  Please try and desribe the issue in as much detail as possible. using things like:
-  
-  1. Model of the board
+    Looks like your post has been flaired as a question!
 
-  2. Purchase date
+    This is just a heads up, if we find that your question was answered in the FAQ post, your post will be removed
 
-  3. The exact issue. (You can add things like a video explaining as well)
+    We do this to keep the front page clean with quality posts, but at the same time we know you're looking for help and really want you to get it.
 
----
+    Another way to avoid removal is to make the question not personal-- that is, reframe the question as a discussion. That way you can get a lot more perspectives from a wider variety of answers.
+
+    Thanks for posting and we hope you find your answer!
