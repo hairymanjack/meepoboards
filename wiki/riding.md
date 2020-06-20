@@ -54,4 +54,4 @@ Riding takes a long time to get used to. Depending on the board you have, it can
 Personally I watch [this guy](https://www.youtube.com/watch?v=b3yG8NWXQQE) who is very good and explaining things and shows you. I suggest you watch the video.
 
 # Issues with this articke:
-Please open an issue on github.
+Please open an issue on github [here](https://github.com/userbradley/meepoboards/blob/master/wiki/riding.md)
