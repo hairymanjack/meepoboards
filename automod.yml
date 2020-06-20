@@ -1,8 +1,16 @@
-#---
-#fuck shipping posts! this is why I was sworn in as a mod
-#title: [shipping, delivery]
-#set_flair: Shipping question
-#Moderators_exempt: false
+---
+type: submission
+flair_text: "Board arrived"
+Moderators_exempt: false
+url (regex): ['(\.jpg|\.gifv?|\.png)$']
+comment: |
+   Wow /u/{{author}} that's pretty dank
+
+   Sadly I dont have eyes, but this post better not just be a photo of a box, or the board.
+
+   We strive for uniqueness in this sub, make your post stand out. Do a handstand on it for extra pizzazz 
+
+   
 ---
 #try and make a good community with questions leading to discussions
 type: submission
