@@ -6,10 +6,9 @@ url (regex): ['(\.jpg|\.gifv?|\.png)$']
 comment: |
    Wow /u/{{author}} that's pretty dank
 
-   Sadly I dont have eyes, but this post better not just be a photo of a box, or the board.
+   Please make sure this sint just a photo of the board or the box. 
 
-   We strive for uniqueness in this sub, make your post stand out. Do a handstand on it for extra pizzazz 
-
+   We strive for uniqueness in this sub, make your post stand out. Do a handstand on it for extra pizzazz!
    
 ---
 #try and make a good community with questions leading to discussions
@@ -19,9 +18,9 @@ Moderators_exempt: false
 comment: |
    Howdy partner! Thanks for your question.
 
-   Please do your best to explain the question as much as you can, include photos if needed and a video if you really need it
+   Please be as descriptive of your question as possible so we're able to help you!
 
-   I have been forced to tell you that if this question can be answered in the [Wiki pages](https://www.reddit.com/r/MeepoBoards/wiki/index) page, we may remove it.
+   Please check the [Wiki pages](https://www.reddit.com/r/MeepoBoards/wiki/index) to see if your question can be answered there
 
    Please do your best to make this question in to a discussion as we are trying so hard to make this a flourishing community as we grow!
 ---
@@ -29,9 +28,7 @@ comment: |
 type: submission
 Moderators_exempt: false
 ~flair_text (regex): ".+"
-comment: |
-    Hello! /u/{{author}}, you sneak! 
-    
+comment: |   
     As u/chin_waghing once said 'Please assign a flair to your post'
 
     If you don't know how. Please let  u/chin_waghing know and He will help :)
@@ -51,7 +48,7 @@ comment: |
 #only have this for a week to collect info so I can figure out what they want
 type: submission
 comment: |
-    Please fill [this form out](https://forms.gle/w567xct4ZqbjNcCm8) so the mods can work better for you!
+    Please can you fill [this form out](https://forms.gle/w567xct4ZqbjNcCm8) so the mods know what you're not enjoying!
 comment_stickied: true
 ---
 type: submission
