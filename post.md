@@ -42,6 +42,22 @@ We ships fast shipping orders out in 1-2 days, and get tracking number for you w
 
 ^(()[^(https://www.meepoboard.com/pages/faqs)](https://www.meepoboard.com/pages/faqs))
 
+**Refunds for fast shipping**
+
+I am actually not sure about this. You will need to contact meepo!
+
+**Is my board lost?!?!?!**
+
+No. I am yet to hear of a board getting lost in transit. 
+
+**Shipping seems too good to be true**
+
+In the nicest way possible, after you've read all the above. you tell me (Answer is probably too good to be true)
+
+**Third party resellers**
+
+I have seen a few posts about EBC. I personally dont understand why they exist when they just buy from meepo and have it shipped from meepo. I have seen complains of their shipping times worse, and their communication being worse. Weird. 
+
 &#x200B;
 
 Now that we have covered everything I can think of for shipping. we will look at the warranty and refunds and how to contact support.
@@ -89,6 +105,15 @@ Do note that their support take a long time to get back and many times they will
 If there is anything I have missed, or you have any questions please feel free to reach out and let me know! I am more than happy to help in what ever way I can
 
 &#x200B;
+
+&#x200B;
+
+&#x200B;
+**General questions**
+
+First, **Airline travel**
+
+If your board is over 100Wh you're stuffed. [TSA](https://www.tsa.gov/travel/security-screening/whatcanibring/items/lithium-batteries-more-100-watt-hours) [CAA](https://www.caa.co.uk/Passengers/Before-you-fly/Baggage/Items-that-are-allowed-in-baggage/#:~:text=Passengers%20must%20carry%20no%20more,100%20Wh%20for%20lithium%20ion.)
 
 (also I'll put this out there. I am in no way affiliated with meepo. I work and live in the UK :) )
 
