@@ -29,7 +29,7 @@ Now to stop, lean back a smidge, and scroll the wheel backwards till you feel re
 So far we have only gone in straight lines..
 
 # turning
-From meepo, the bushings on the boards (The funky colored things under the board where the wheels attach to) come a little tight. We will need to loosen them a smidege. Take the orange skate tool you got in the board and turn it 9/8ths of a turn (basically almost all the way)
+From meepo, the bushings on the boards (The funky colored things under the board where the wheels attach to) come a little tight. We will need to loosen them a smidege. Take the orange skate tool you got in the board and turn it 8/9ths of a turn (basically almost all the way)
 
 Do the same for the read, but turn the rear 4/8ths of the way (half turn)
 
