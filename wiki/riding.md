@@ -49,6 +49,34 @@ Now that we have been in beginner mode for around a week, click the power button
 
 As the modes get higher, you will need to lean more for pulling off as well as breaking!
 
+# Changing break modes
+
+The cool thing about meepo boards is you can change the hars'ness of the breaks.
+ 1. Stop
+ 2. Pull the breaks back to the end of the scroll wheel
+ 3. Click the power button. it will move up. Gradually make your way though the settins till you find one you like. (personally I ride at max everything)
+
+# Dealing with the public
+**altercations**
+
+ Not so long ago I was almost stabbed by some piece of shit because I passed his piece of shit family 'too close' (about 3 meters)
+
+ 1. Remain calm if you get in to an altercation. Ensure that your board is in top speed mode and the board is in the correct direction of escape
+ 2. Start moving
+ 3. Shout profanities whilst you are moving
+ 4. Floor it
+
+ This has worked for me as I am still alive and writing this.
+
+ **Questions about the board**
+ 1. Ensure you are really polite and answer all the questions as best as you can. 
+ 2. Avoid crowds of people
+ 3. People will stare, wave or smile at them
+
+ **remember, the future of esk8 is in your hands**
+
+
+
 # wheres muh confidence
 Riding takes a long time to get used to. Depending on the board you have, it can take months. Don't give up no matter what.
 Personally I watch [this guy](https://www.youtube.com/watch?v=b3yG8NWXQQE) who is very good and explaining things and shows you. I suggest you watch the video.
