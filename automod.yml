@@ -1,18 +1,6 @@
-
+#Made by Bradley
 #users raised issues with flairs, look at automatically adding flairs 
-#Possibly create master threads once a month for certain topics?
----
-#type: submission
-#flair_text: "Board arrived"
-#Moderators_exempt: false
-#url (regex): ['(\.jpg|\.gifv?|\.png)$']
-#comment: |
-#   Wow /u/{{author}} that's pretty dank#
-
-#   Please make sure to wear a helmet! Also read this [Wiki page](https://www.reddit.com/r/MeepoBoards/wiki/lander/riding) if you're a new rider
-
-#   We strive for uniqueness in this sub, make your post stand out. Do a handstand on it for extra pizzazz!
-   
+#Possibly create master threads once a month for certain topics?   
 ---
 #try and make a good community with questions leading to discussions
 type: submission
@@ -45,12 +33,7 @@ comment: |
         The above {{kind}} by /u/{{author}} was removed because it contained a possible credit card number. Please investigate immediately.
 
         If the user is doxxing, [ban them](/r/{{subreddit}}/about/banned) and [report them to the reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&amp;subject=Doxxing%20Report:%20%2Fu%2F{{author}}&message=%2Fu%2F{{author}}%20posted%20a%20credit%20card%20number:%20{{permalink}}) immediately.
-#---
-#only have this for a week to collect info so I can figure out what they want
-#type: submission
-#comment: |
-#    Please can you fill [this form out](https://forms.gle/w567xct4ZqbjNcCm8) so the mods know what you're not enjoying!
-#comment_stickied: true
+
 ---
 type: submission
 flair_text: "Board arrived"
@@ -63,3 +46,23 @@ comment: |
    also, I am legally made to tell you to wear a [brain bucket](https://e-skateboarder.com/best-electric-skateboard-helmet-that-actually-look-nice/)
 
    Have fun and post some cool videos later for us!
+
+# Disabled stuff #
+#---
+#only have this for a week to collect info so I can figure out what they want
+#type: submission
+#comment: |
+#    Please can you fill [this form out](https://forms.gle/w567xct4ZqbjNcCm8) so the mods know what you're not enjoying!
+#comment_stickied: true
+
+---
+#type: submission
+#flair_text: "Board arrived"
+#Moderators_exempt: false
+#url (regex): ['(\.jpg|\.gifv?|\.png)$']
+#comment: |
+#   Wow /u/{{author}} that's pretty dank#
+
+#   Please make sure to wear a helmet! Also read this [Wiki page](https://www.reddit.com/r/MeepoBoards/wiki/lander/riding) if you're a new rider
+
+#   We strive for uniqueness in this sub, make your post stand out. Do a handstand on it for extra pizzazz!
