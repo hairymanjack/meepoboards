@@ -2,16 +2,16 @@
 #users raised issues with flairs, look at automatically adding flairs 
 #Possibly create master threads once a month for certain topics?
 ---
-type: submission
-flair_text: "Board arrived"
-Moderators_exempt: false
-url (regex): ['(\.jpg|\.gifv?|\.png)$']
-comment: |
-   Wow /u/{{author}} that's pretty dank
+#type: submission
+#flair_text: "Board arrived"
+#Moderators_exempt: false
+#url (regex): ['(\.jpg|\.gifv?|\.png)$']
+#comment: |
+#   Wow /u/{{author}} that's pretty dank#
 
-   Please make sure to wear a helmet! Also read this [Wiki page](https://www.reddit.com/r/MeepoBoards/wiki/lander/riding) if you're a new rider
+#   Please make sure to wear a helmet! Also read this [Wiki page](https://www.reddit.com/r/MeepoBoards/wiki/lander/riding) if you're a new rider
 
-   We strive for uniqueness in this sub, make your post stand out. Do a handstand on it for extra pizzazz!
+#   We strive for uniqueness in this sub, make your post stand out. Do a handstand on it for extra pizzazz!
    
 ---
 #try and make a good community with questions leading to discussions
